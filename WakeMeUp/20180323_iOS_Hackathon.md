@@ -26,7 +26,7 @@
   
 ## 3. 결과물 
 
-<video style="width:100%" controls src="WakeMeUp.mov" type="WakeMeUp/mov"></video>
+![Video](./WakeMeUp.mov)
 
 ## 4. 최종 결과물 초기 기확과 달라진 점:
 
