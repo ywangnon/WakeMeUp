@@ -25,7 +25,8 @@
 - 현호: 디테일뷰 + 알람기능 구현
   
 ## 3. 결과물 
-<video style="width:100%" controls src="WakeMeUp.mov"/>
+
+<video style="width:100%" controls src="WakeMeUp.mov" type="WakeMeUp/mov"></video>
 
 ## 4. 최종 결과물 초기 기확과 달라진 점:
 
