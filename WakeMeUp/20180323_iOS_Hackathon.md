@@ -26,7 +26,7 @@
   
 ## 3. 결과물 
 
-![Video](./WakeMeUp.mov)
+![Video](./WakeMeUp.mov){: width="210" height="370"}
 
 ## 4. 최종 결과물 초기 기확과 달라진 점:
 
