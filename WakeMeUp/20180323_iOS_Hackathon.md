@@ -28,9 +28,6 @@
 
 ![Video](./WakeMeUp.mov)
 
-<iframe width="210" height="370" src="./WakeMeUp.mov"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-
 ## 4. 최종 결과물 초기 기확과 달라진 점:
 
 - 기본 알람 기능 자체가 일반적인 앱과 동작하는 원리가 조금 달라서
