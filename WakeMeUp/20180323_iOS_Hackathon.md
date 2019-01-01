@@ -28,9 +28,7 @@
 
 ![Video](./WakeMeUp.mov)
 
-width="210" height="370" 
-
-<iframe width=50% height=370 src="./WakeMeUp.mov"  
+<iframe width="210" height="370" src="./WakeMeUp.mov"  
  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## 4. 최종 결과물 초기 기확과 달라진 점:
